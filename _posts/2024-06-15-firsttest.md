@@ -1,14 +1,6 @@
----
-title: "local test"
+title: "Edge Case: Many Tags"
 categories:
-  - local test
- 
- 
----
-
- local test111
-
-
-
-
- 
+  - Edge Case
+tags:
+  - 8BIT
+  - aurum!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
