@@ -1,3 +1,14 @@
+---
+layout: single
+title: "markDown 문법 정리"
+categories: coding11111
+toc: true 
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
 ### markDown 문법 정리
 # 제목
 ``` markdown

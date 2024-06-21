@@ -1,3 +1,15 @@
+---
+layout: single
+title: "자주 사용하는 Git 명령어"
+categories: coding
+toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+---
+
+
+
 4) 자주 사용하는 Git 명령어
 명령어	설명	예시
 git status	저장소의 상태를 확인하기 위해 사용하는 명령어
